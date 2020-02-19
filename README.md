@@ -2,3 +2,5 @@
 
 How various interest rate changes affect all equity real estate returns
 
+Main Jupyter notebook is in folder ".ipynb_checkpoints"
+
