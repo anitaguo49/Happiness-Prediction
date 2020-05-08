@@ -10,8 +10,7 @@ The purpose of this project is to analyze socio-economic and political data to p
 # Methods Used
 * Machine Learning
 * Data Visualization
-* Singular Value Decomposition using Surprise
-* LightFM
+* Linear Regression Models
 
 # Technologies
 * Python
