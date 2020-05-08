@@ -27,7 +27,7 @@ The data is from Kaggle.
 Ran Linear Regression models iteratively to refine and refit the model for better results using python packages
 
 # Powerpoint Presentation
-(Pointpoint slide)[https://docs.google.com/presentation/d/1CQX1G2OmSnf7nAyTZ2HFktxzq6d9TlydUSuOaejoSH8/edit?usp=sharing]
+[Pointpoint slide](https://docs.google.com/presentation/d/1CQX1G2OmSnf7nAyTZ2HFktxzq6d9TlydUSuOaejoSH8/edit?usp=sharing)
 
 # Contact
 Feel free to contact me with any questions or if you are interested in contributing!
